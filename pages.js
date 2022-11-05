@@ -1,0 +1,1 @@
+module.exports = {  pages: require('./pages-modules/index.js'),  globalStyle: {    "navigationBarTextStyle": "black",    "navigationBarTitleText": "%app.name%",    "navigationBarBackgroundColor": "#F8F8F8",    "backgroundColor": "#F8F8F8"  }}

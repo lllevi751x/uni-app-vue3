@@ -1,0 +1,1 @@
+import { i18n, messages } from '@/setup/i18n.js'export const t = i18n.global.texport const setLocale = (locale) => {  if (!messages[locale]) {    return uni.showToast({      icon: 'none',      title: '未找到语言'    })  }  uni.setLocale(locale)}

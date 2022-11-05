@@ -1,0 +1,9 @@
+{
+  "name": "uni-app-vue3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "uni-pages-hot-modules": "^1.0.3"
+  }
+}
